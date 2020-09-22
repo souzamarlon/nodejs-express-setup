@@ -19,14 +19,9 @@ Back-end:
 - [nodemon](https://nodemon.io/)
 - [sucrase](https://sucrase.io/)
 
-Back-end:
-- [VS Code][vc]
-
 ## :information_source: How To Use
 
 To clone and run this application, you'll need [Git](https://git-scm.com), [Node.js v10.16][nodejs] or higher + [Yarn v1.13][yarn] or higher installed on your computer.
-
-You'll also need to setup and run a Postgres, mongoDB and a Redis database and insert the access informations into a .env file, based on a .env.example file that is provided in the backend, front-end folders.
 
 From your command line:
 
