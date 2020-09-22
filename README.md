@@ -4,6 +4,7 @@
 
 <h4 align="center">
 Setting up a REST API with Node.js and Express.js
+This project was create for this [tutorial](https://dev.to/souzamarlon/setting-up-a-rest-api-with-node-js-and-express-js-3fl2) in Dev.to.
 </h4>
 
 <p align="center">
