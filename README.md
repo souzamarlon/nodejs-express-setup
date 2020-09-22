@@ -16,9 +16,11 @@ Setting up a REST API with Node.js and Express.js
 Back-end:
 - [NodeJS](https://nodejs.org)
 - [express](https://github.com/expressjs/express)
+- [nodemon](https://nodemon.io/)
+- [sucrase](https://sucrase.io/)
 
 Back-end:
-- [VS Code][vc] with [EditorConfig][vceditconfig] and [ESLint][vceslint]
+- [VS Code][vc]
 
 ## :information_source: How To Use
 
