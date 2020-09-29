@@ -1,4 +1,5 @@
 import express from 'express';
+import cors from 'cors';
 
 const users = ['User01', 'User02'];
 
@@ -11,6 +12,8 @@ class Server{
      
     routes() {
         this.app.use(express.json());
+        this.app.use(cors());
+
 
         // Return all the users.
         this.app.get('/users', (req, res) => {
